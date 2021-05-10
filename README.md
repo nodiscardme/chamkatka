@@ -17,7 +17,7 @@
 <br />
 
 ----
-<img align="left" alt="sanketr62's Github stats" src="https://github-readme-stats.vercel.app/api?username=Sanketr62&show_icons=true&hide_border=true" />
+<img align="left" alt="sanketr62's Github stats" src="https://github-readme-stats.vercel.app/api?username=Sanketr62&show_icons=true&hide_border=false" />
 
 [LinKedIn]: https://www.linkedin.com/in/sanket-r-1a35aa1b3/
 [Twitter]: https://twitter.com/c_arbitrary
