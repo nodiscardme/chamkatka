@@ -2,9 +2,9 @@
 
 ## I'm a Student, begginer at programming, Wikipedian editor and graphic designer.
 
-– 🛠️ Currently working on an app development
-– 🌱 Currently learning Java
-– 🤝 Eager to collaborate on any project pertaining to front end development
+– 🛠️ Currently working on an app development <br>
+– 🌱 Currently learning Java <br>
+– 🤝 Eager to collaborate on any project pertaining to front end development <br>
 – 🥅 Goals: Want to start contributing in open source projects
 
 ### Connect with me here:
