@@ -5,7 +5,7 @@
 – 🛠️ Currently working on an app development <br>
 – 🌱 Currently learning Java <br>
 – 🤝 Eager to collaborate on any project pertaining to front end development <br>
-– 🥅 Goals: Want to start contributing in open source projects
+– 🥅 Goals: Want to contributing in open source projects
 
 ### Connect with me here:
 
