@@ -9,9 +9,9 @@
 
 ### Connect with me here:
 
-[<img align="left" alt="sanketli |LinkedIn" width="22px" src="httpsw://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
-[<img align="left" alt="sankettw |Twitter" width="22px" src="httpsw://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
-[<img align="left" alt="sanketyt |YouTube" width="22px" src="httpsw://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg/sanket.r.923/" />][Facebook]
+[<img align="left" alt="sanketlI" width="22px" src="httpsw://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
+[<img align="left" alt="sankettw" width="22px" src="httpsw://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
+[<img align="left" alt="sanketyt" width="22px" src="httpsw://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg/sanket.r.923/" />][Facebook]
 
 <br />
 
