@@ -1,6 +1,7 @@
 ### Hi, I'm Sanket.
 
 ## I'm a Student, begginer at programming, Wikipedian editor and graphic designer.
+
 – 🛠️ Currently working on an app development
 – 🪴 Currently learning Java
 – 🤝 Eager to collaborate on any project pertaining to front end development
