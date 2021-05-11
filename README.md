@@ -16,7 +16,7 @@
 
 <br />
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githibusercontent.com/github/explore/80688e429a7d4ef2fcale82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png />]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githibusercontent.com/github/explore/80688e429a7d4ef2fcale82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png />][VSC]
 
 ----
 <img align="left" alt="sanketr62's Github stats" src="https://github-readme-stats.vercel.app/api?username=Sanketr62&show_icons=true&hide_border=true" />
@@ -24,3 +24,4 @@
 [LinKedIn]: https://www.linkedin.com/in/sanket-r-1a35aa1b3/
 [Twitter]: https://twitter.com/c_arbitrary
 [Facebook]: https://www.facebook.com/sanket.r.923/
+[VSC]: https://code.visualstudio.com/
