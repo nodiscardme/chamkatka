@@ -1,6 +1,6 @@
 ### Hi, I'm Sanket.
 
-## I'm a Student, begginer at programming, Wikipedian and graphic designer.
+## I'm a Student, beginner at programming, Wikipedian and graphic designer.
 
 – 🛠️ Currently working on an app development project<br>
 – 🌱 Currently learning Java <br>
