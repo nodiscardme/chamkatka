@@ -34,6 +34,7 @@
 [Facebook]: https://www.facebook.com/sanket.r.923/
 [VSC]: https://code.visualstudio.com/
 [C]: https://en.wikipedia.org/wiki/C_(programming_language)
+[C++]: https://en.wikipedia.org/wiki/C++_(programming_language)
 [JS]: https://en.wikipedia.org/wiki/JavaScript
 [HTML]: https://en.wikipedia.org/wiki/HTML5
 [CSS]: https://en.wikipedia.org/wiki/CSS
