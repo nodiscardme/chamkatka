@@ -2,7 +2,7 @@
 
 ## I'm a Student, beginner at programming, Wikipedian and graphic designer.
 
-– 🛠️ Currently working on an app development project<br>
+– 🛠️ Currently working on NFTify<br>
 – 🌱 Currently learning JavaScript <br>
 – 🤝 Eager to collaborate on any project pertaining to front end development <br>
 – 🥅 Goals: Want to contribute in open source projects <br>
