@@ -27,7 +27,7 @@
 
 ----
 ## My Github Stats :octocat:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanketr62&theme=github_dark&show_icons=true)](https://github.com/Sanketr62/github-readme-stats) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanketr62&theme=github_dark&show_icons=true&hide=html,css)](https://github.com/Sanketr62/github-readme-stats) <br>
 [![Sanket's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanketr62&theme=github_dark&show_icons=true)](https://github.com/Sanketr62/github-readme-stats)
 
 [LinKedIn]: https://www.linkedin.com/in/sanket-r-1a35aa1b3/
