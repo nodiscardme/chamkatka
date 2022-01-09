@@ -2,11 +2,11 @@
 
 ## I'm a Student, beginner at programming, Wikipedian and graphic designer.
 
-– 🛠️ Currently working on NFTify<br>
-– 🌱 Currently learning JavaScript <br>
-– 🤝 Eager to collaborate on any project pertaining to front end development <br>
-– 🥅 Goals: Want to contribute in open source projects <br>
-– ✏️ Hobbies: Create/Improve wikipedia articles, Design graphics.
+* 🛠️ Currently working on NFTify<br>
+* 🌱 Currently learning JavaScript <br>
+* 🤝 Eager to collaborate on any project pertaining to front end development <br>
+* 🥅 Goals: Want to contribute in open source projects <br>
+* ✏️ Hobbies: Create/Improve wikipedia articles, Design graphics.
 
 ### Connect with me here:
 
@@ -26,8 +26,9 @@
 <br />
 
 ----
-
-<img align="left" alt="sanketr62's Github stats" src="https://github-readme-stats.vercel.app/api?username=Sanketr62&show_icons=true&hide_border=true" />
+## My Github Stats :octocat:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanketr62&theme=github_dark&show_icons=true)](https://github.com/Sanketr62/github-readme-stats) <br>
+[![Sanket's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanketr62&theme=github_dark&show_icons=true)](https://github.com/Sanketr62/github-readme-stats)
 
 [LinKedIn]: https://www.linkedin.com/in/sanket-r-1a35aa1b3/
 [Twitter]: https://twitter.com/c_arbitrary
