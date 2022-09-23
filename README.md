@@ -2,8 +2,8 @@
 
 ## I'm a Student, Beginner at programming, Wikipedian and Graphic Designer.
 
-* 🛠️ Currently working on NFTify<br>
-* 🌱 Currently learning JavaScript <br>
+* 🛠️ Currently working on yourbahn<br>
+* 🌱 Currently learning MERN stack <br>
 * 🤝 Eager to collaborate on any project pertaining to front end development <br>
 * 🥅 Goals: Want to contribute in open source projects <br>
 * ✏️ Hobbies: Create/Improve wikipedia articles, Design graphics.
